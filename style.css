@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@500&display=swap');
+
+* {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    height: 100vh;
+    justify-content: center;
+    position: relative;
+
+}
+
+footer {
+    bottom: 0rem;
+    font-size: 11px;
+    position: absolute;
+    text-align: center;
+    /* color: hsl(212, 45%, 89%); */
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration-line: none;
+}
+
+.attribution a:hover {
+    text-decoration-line: underline;
+}
+
+.qr_code {
+
+
+    align-items: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    height: 30rem;
+    justify-content: center;
+    max-width: 100%;
+    width: 20rem;
+    /* height: auto; */
+
+}
+
+.qr_code p {
+    color: hsl(218, 44%, 22%);
+    font-size: large;
+    font-weight: 700;
+    padding-top: 3rem;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.qr_code p:nth-child(4) {
+    color: hsl(220, 15%, 55%);
+    font-size: small;
+    font-weight: 400;
+    padding: 1rem;
+}
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+
+}

@@ -25,7 +25,7 @@ This is a small QR-code responsive screen which we can use in our big projects.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://tarendrav.github.io/QR-code_project-FM/)
 
 ## My process
 
